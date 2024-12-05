@@ -1,8 +1,9 @@
-# Earbuds Promotional Page with AJAX
+# Gregory_joyal_ajax_application_assignment
+
 
 ## Project Overview
 
-This project showcases an interactive Earbuds Promotional Page that uses AJAX to dynamically fetch data from an API and display it. The page includes interactive hotspots, a loading spinner, and error handling, all styled with SASS.
+This project showcases an interactive Earbuds Promotional Page that uses AJAX to dynamically fetch data from an API and display it.
 
 ## Features
 
